@@ -1,0 +1,101 @@
+BODY  {
+	background-color : #FFFFFF;
+	color : #000000;
+	font-size : 8pt;
+	font-family : Verdana, Arial, MS Sans Serif, Sans Serif, Helvetica;
+	margin : 10px;
+	margin-right : 5px;
+}
+
+H1  {
+	font-size : 14pt;
+	font-family : Verdana, Arial, MS Sans Serif, Sans Serif, Helvetica;
+	font-weight : normal;
+	margin-bottom : 4px;
+	margin-top : 0px;
+}
+
+H2  {
+	font-size : 12pt;
+	font-weight : bold;
+	font-family : Verdana, Arial, MS Sans Serif, Sans Serif, Helvetica;
+	margin-top : 0px;
+	margin-bottom : 6px;
+}
+
+H3  {
+	font-size : 8pt;
+	font-family : Verdana, Arial, MS Sans Serif, Sans Serif, Helvetica;
+	font-weight : bold;
+	margin-top : 0px;
+	margin-bottom : 4px;
+}
+
+HR  {
+	height : 1px;
+	margin-top : 6px;
+	margin-bottom : 0px;
+	color : #EE6A00;
+}
+
+SMALL  {
+	font-size : 10px;
+	font-family : Verdana, Arial, MS Sans Serif, Sans Serif, Helvetica;
+}
+
+A  {
+	color : #000000;
+	font-family : Tahoma, Verdana, Arial, MS Sans Serif, Sans Serif, Helvetica;
+	font-weight : bold;
+	text-decoration : none;
+}
+
+A:Visited  {
+	color : #000000;
+}
+
+A:Active  {
+	color : #EE6A00;
+}
+
+A:Hover  {
+	color : #EE6A00;
+}
+
+A.QD  {
+	color : #00B2EB;
+}
+
+A.QD:Visited  {
+	color : #00B2EB;
+}
+
+A.QD:Active  {
+	color : #30448E;
+}
+
+A.QD:Hover  {
+	color : #30448E;
+}
+
+TD  {
+	font-size : 8pt;
+	font-family : Verdana, Arial, MS Sans Serif, Sans Serif, Helvetica;
+}
+
+TD.info  {
+	font-size : 8pt;
+	font-family : Tahoma, Verdana, Arial, Helvetica, MS Sans Serif;
+}
+
+OL  {
+	margin : 0px;
+}
+
+UL  {
+	margin : 0px;
+}
+
+LI  {
+	margin-left : 25px;
+}

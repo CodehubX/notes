@@ -1,0 +1,40 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=..\..\WMSNotes_nl.chm
+Contents file=Table of Contents.hhc
+Default Window=Main
+Default topic=main.html
+Display compile progress=Yes
+Index file=Index.hhk
+Language=0x413 Nederlands (standaard)
+Title=WMS Notes Help
+
+[WINDOWS]
+Main="WMS Notes Help","Table of Contents.hhc","Index.hhk","main.html",,,,,,0x2120,200,0x300e,[0,0,750,550],,,,0,,,
+
+
+[FILES]
+informatie.html
+main.html
+werking.html
+werking_functies.html
+werking_notesbestanden.html
+werking_opmaak.html
+werking_zoeken.html
+
+[ALIAS]
+IDH_MAIN=main.html
+IDH_WERKING=werking.html
+IDH_WERKING_FUNCTIES=werking_functies.html
+IDH_WERKING_NOTESBESTANDEN=werking_notesbestanden.html
+IDH_WERKING_OPMAAK=werking_opmaak.html
+IDH_WERKING_ZOEKEN=werking_zoeken.html
+
+[MAP]
+#define IDH_MAIN 1000
+#define IDH_WERKING 1100
+#define IDH_WERKING_FUNCTIES 1110
+#define IDH_WERKING_NOTESBESTANDEN 1120
+#define IDH_WERKING_OPMAAK 1130
+#define IDH_WERKING_ZOEKEN 1140
+
